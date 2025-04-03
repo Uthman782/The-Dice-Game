@@ -79,11 +79,11 @@ button {
   }
 
   h1 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   p {
-    font-size: 1.2rem;
+    font-size: 2rem;
   }
 
   .dice {
@@ -94,14 +94,14 @@ button {
   img {
     width: 100%;
     margin: 0px 20px;
-    max-width: 150px;
+    max-width: 200px;
   }
 .buttons{
   display: flex;
-  max-width: 300px;
+  max-width: 400px;
 }
   button {
     width: 50%;
-    font-size: 1rem;
+    font-size: 1.8rem;
   }
 }
